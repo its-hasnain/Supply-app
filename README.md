@@ -1,5 +1,10 @@
 # SupplyApp
 
+## Task 
+In order to make an supply app display total items in supply and total supply in whishlist on UI in Header and Dashboard section
+based on user action. Now we have Three components Header , dashboard and Table component Total count needs to be updated in Dashboard
+and header also make a crud and using behaviour subject for it
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Development server
